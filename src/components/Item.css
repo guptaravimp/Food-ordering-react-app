@@ -1,0 +1,20 @@
+#btne{
+  border: 1px solid white;
+  border-radius: 5px;
+  height: 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color:black;
+  /* background-color: aqua; */
+  /* align-items: center; */
+}
+.list-group-item{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 5px;
+}
+#btne:hover{
+  color: rgb(233, 226, 226);
+}
